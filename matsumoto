@@ -1,7 +1,0 @@
-echo "# The-cry-of-the-soul" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/nishikawa1225/The-cry-of-the-soul.git
-git push -u origin main
